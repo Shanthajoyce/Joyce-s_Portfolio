@@ -1,5 +1,5 @@
-# Joyce-s_Portfolio
-Analytics Project# Bike Purchase Behavior Analysis (Excel Project)
+# Joyce's_Portfolio
+Excel Analytics Project #BIKE PURCHASE BEHAVIOUR ANALYSIS
 
 This project analyzes a dataset of customer demographics and lifestyle data to identify patterns in bike purchasing behavior. It was completed using Microsoft Excel for data cleaning, visualization, and basic analysis.
 
