@@ -39,7 +39,7 @@ The dataset includes the following features:
   - Pivot Tables
   - Bar/Column Charts
   - Slicers
-  - Data Cleaning  Remove Duplicates, Formatting)
+  - Data Cleaning (Remove Duplicates, Formatting)
 
 ---
 
